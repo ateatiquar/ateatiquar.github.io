@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ateatiquar.github.io/sitemap
+Sitemap: https://ateatiquar.github.io/app/sitemap
+Sitemap: https://ateatiquar.github.io/assets/sitemap
+Sitemap: https://ateatiquar.github.io/css/sitemap
+Sitemap: https://ateatiquar.github.io/includes/sitemap
+Sitemap: https://ateatiquar.github.io/item/sitemap
+Sitemap: https://ateatiquar.github.io/src/sitemap
